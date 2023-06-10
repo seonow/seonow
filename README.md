@@ -33,8 +33,6 @@ Here are some ideas to get you started:
  - 사용API : 구글로그인, 도로명주소, Toss결제
  - 개발언어 및 환경 : Java, IntelliJ, Spring Boot, ThyemLeaf, Boot Strap, AJAX
  - 데이터베이스 : MySQL, MyBatis
- - 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seonow)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
-📫 How to reach me: [![Naver Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:howlarang12301@naver.com)](mailto:howlarang123@naver.com) / [![Insta Badge](https://img.shields.io/badge/instagram-03C75A?style=flat-square&logo=Insta&logoColor=white&link=https://www.instagram.com/achro_matic_/)](https://www.instagram.com/achro_matic_/)
-
+📫 How to reach me: [![Naver Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:howlarang12301@naver.com)](mailto:howlarang123@naver.com)
