@@ -1,10 +1,10 @@
-### Hello World! 👋
-
   <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
+  
+### Hello World! 👋
 
 <!--
 **seonow/seonow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
  - 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seonow)](https://github.com/anuraghazra/github-readme-stats)
 
-📫 How to reach me: howlarang123@naver.com
-
+📫 How to reach me: howlarang123@naver.com 
+[![Naver Badge](https://img.shields.io/badge/naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=mailto:howlarang12301@naver.com)](mailto:howlarang123@naver.com)
 
