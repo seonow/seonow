@@ -1,12 +1,4 @@
-  <div align=center>
-	
-[![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seonow&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile%20Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
-	
-  </div>
-  
+ 
 ### Hello World! 👋
 
 <!--
